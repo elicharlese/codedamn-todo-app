@@ -1,0 +1,8 @@
+/* ====== Global Styles ====== */
+:root {
+    --background-color-1: #e9993d;
+}
+
+body {
+    background-color: var(--background-color-1);
+}
